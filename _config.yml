@@ -1,0 +1,22 @@
+# Site settings
+title: Protect Sistemas de Segurança
+email: contato@alarmesprotect.com.br
+description: > 
+  Instalação de alarmes e sistemas de segurança residencial e comercial
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Protect Sistemas de Segurança
+address:
+  - line: Avenida Rio Branco 1126, Florianópolis, SC
+  - line: 88015-200
+telephone: (48) 3222 0579
+copyright:
+
+# API settings
+google_api_key: AIzaSyB9ioWQlw4OG70eBPtVFecaXXli700xMa8
+analytics_id: UA-71684470-1
+
+# Build settings
+markdown: kramdown
